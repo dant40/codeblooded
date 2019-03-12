@@ -1,0 +1,13 @@
+#topbar{
+          display:flex;
+          flex-direction:row;
+          font-size: 16pt;
+          justify-content:center;
+     }
+     #navbar{
+          display:flex;
+          flex-direction:row;
+          margin:20pt;
+          justify-content:space-between;
+
+     }
