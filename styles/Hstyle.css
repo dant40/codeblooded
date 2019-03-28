@@ -25,14 +25,7 @@
      width: 600pt;
 }
 
-#plus{
-     position: absolute;
-     bottom: 0;
-     right: 0;
-     border-style: solid;
-     border-radius: 50%
 
-}
 
 body {
   background: #808080; 
@@ -43,3 +36,4 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;      
 }
+
