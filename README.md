@@ -1,2 +1,2 @@
 # codeblooded
-Project for CS347 
+Repurposed for badsnake
